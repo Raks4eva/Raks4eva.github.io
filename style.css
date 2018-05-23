@@ -1,0 +1,22 @@
+.p1{
+	color: violet
+}
+body{
+	background-color: pink
+}
+.p2{
+	color: red;
+}
+.p3{
+	color: #FFFF00
+}
+.P4{color: rgb(0,128,0);}
+li:hover {
+	color: rgb(0,128,0); font: courier;
+}
+h3{
+	font-size: 30px
+}
+img{
+	width: "250px" height: "250";
+}
